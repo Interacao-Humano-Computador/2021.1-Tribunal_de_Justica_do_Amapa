@@ -1,1 +1,12 @@
-site_name: My Docs
+site_name: My docs
+
+extra_css: 
+    - assets/stylesheets/extra.css
+
+theme:
+    name: material
+    language: pt
+
+## Nav Bar
+nav:
+    - Home: index.md
