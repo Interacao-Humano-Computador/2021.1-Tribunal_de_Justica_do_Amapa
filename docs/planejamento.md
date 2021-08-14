@@ -16,7 +16,7 @@ O SIGAA, ou Sistema Integrado de Gestão de Atividades Acadêmicas, é uma ferra
 
 ## Site escolhido: Mapa da Cultura
 <figure>
-<img align=center width="300" src="/assets/logomapacultura.svg">
+<img align=center width="300" src="../assets/logomapacultura.svg">
 <figcaption>Logo do site Mapa da Cultura</figcaption>
 </figure>
 Em reunião, o grupo decidiu que nenhum dos sites avaliados anteriormente seria boa escolha para o foco do projeto devido aos sites não terem problemas graves ou já terem sido foco de projetos da disciplina passados. Portanto, optaram por escolher juntos outro site para basear o projeto.
