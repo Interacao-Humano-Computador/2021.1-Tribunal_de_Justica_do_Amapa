@@ -10,3 +10,4 @@ theme:
 ## Nav Bar
 nav:
     - Home: index.md
+    - Planejamento: planejamento.md
