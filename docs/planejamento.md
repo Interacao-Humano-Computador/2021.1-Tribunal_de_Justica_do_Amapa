@@ -31,7 +31,19 @@ O site escolhido foi o [Mapa da Cultura](http://mapas.cultura.gov.br/), que é u
 
 ## Processo de Design
 
+O design é um processo que envolve as seguintes atividades básicas: a análise da situação atual, a síntese de uma intervenção e a avaliação dessa intervenção projetada ou já aplicada à situação atual. Cada processo de design detalha essas atividades básicas de uma forma particular, definindo: como executar cada atividade; a sequência em que elas devem ser executadas; quais atividades podem se repetir, e por quais motivos; e os artefatos consumidos e produzidos em cada uma delas. (Barbosa e Silva, 2010).
 
+A equipe optou por seguir o processo de design Engenharia de usabilidade de Mayhew.
+### Engenharia de Usabilidade de Mayhew
+
+![Ciclo de Mayhew](./assets/ciclo_mayhew.png)
+<center>Figura 2: Ciclo de vida de Mayhew. Retirado de: BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador". Capítulo 4, página 110.</center>
+
+- **Análise de requisitos:** É onde são definidas as metas de usabilidade com base no perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma em que o sistema será executado e princípios gerais de design de IHC. As metas de usabilidades definidas são, geralmente, representadas em guias de estilo por facilitarem a sua verificação durante as fases seguintes.
+
+- **Design, avaliação e desenvolvimento:** Essa fase propõe projetar a solução de IHC em três níveis de detalhes e tem por objetivo conceber uma solução de IHC que atenda às metas de usabilidade estabelecidas na fase anterior.
+
+- **Instalação:** Após algum tempo de uso, o designer coleta as opiniões dos usuários, utilizando essas opiniões para a melhoria do sistema futuramente ou para apontar a necessidade de novos sistemas.
 ## Ferramentas
 
  **Ferramenta** | **Nome** | **Finalidade**
@@ -42,3 +54,13 @@ O site escolhido foi o [Mapa da Cultura](http://mapas.cultura.gov.br/), que é u
 ![VScode](./assets/ferramentas/VScodeLogo.png) | Visual Studio Code | Principal ferramenta de edição d textos no projto.
 ![mkdocs](./assets/ferramentas/MkdocsLogo.png) | MKdocs | Gerador de site estático minimalista, será usado para criar o site contendo a documentação do projeto.
 ![Planilhas Google](./assets/ferramentas/planilhasGoogleLogo.png) | Planilhas Google | Utilizado para criar planilhas e tabelas.
+
+## Bibliografia
+> BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador"
+
+## Versionamento
+| Versão | Data | Modificação | Autor |
+|--|--|--|--|
+| 1.0 | 14/08/2021 | Criação do documento | Guilherme Vial |
+| 1.1 | 14/08/2021 | Adicionando sites avaliados e site escolhido | Lucas Braun |
+| 1.2 | 14/08/2021 | Adicionando bibliografia e processo de design | Enzo Gabriel |
