@@ -54,7 +54,7 @@
 
 ### 5º Ponto de Controle - 20/09
 
-- Relato dos resultados do Story Board;
+- Relato dos resultados do StoryBoard;
 - Relato dos resultados da Análise de tarefas;
 - Planejamento da Avaliação e do relato dos resultados da avaliação do Protótipo de Papel.
 
@@ -70,7 +70,52 @@
 
 ## Quadro de Disponibilidade
 
+![Ciclo de Mayhew](./assets/quadro_disponibilidade.png)
+<center>Figura 1: Quadro de Disponibilidade do Grupo</center>
+
 ## Metodologia
+
+### eXtreme Programming (XP)
+&emsp;&emsp;A equipe decidiu por usar a metodologia, baseada nos 4 valores(comunicação, simplicidade, feedback e coragem).
+
+### Scrum
+&emsp;&emsp;A equipe decidiu optar por pontos básicos da metodologia ágio, um deles será o Scrum, dando ênfase no processo de rituais.
+
+#### Sprints 
+&emsp;&emsp;As sprints terão seus tempos de duração adaptativos, uma sprint será uma entrega e sua duração em atividade será justamente a diferença entre a entrega passada e a próxima. Nesse período todos os artefatos da entrega deverão ser desenvolvidos e finalizados.
+
+#### Planning
+&emsp;&emsp;O Planning é o ritual de discussão e planejamento de tudo que será desenvolvido durante a sprint. Neste momento o grupo observará o que tem que ser trabalhado para a próxima entrega e caso tenha alguma observação da entrega passada, corrigir lá e/ou aprimorar-la.
+
+#### Review
+&emsp;&emsp;O Review é o ritual de análise e reflexão de tudo que foi desenvolvido durante a sprint. Neste momento o grupo passa por cada tarefa feita e identifica possíveis dívidas técnicas.
+
+
+### Kanban
+
+#### Issues
+&emsp;&emsp;Cada artefato/atividade desenvolvida na sprint deverá sempre ser vinculada a uma issue, assim se tem um rastreio de trabalho, panorama de andamento das atividades e visão geral do que o grupo como tem que fazer para a entrega.
+
+- Tópicos de issue:
+    - Tarefas;
+    - Critério de Aceitação.
+
+#### Zenhub
+&emsp;&emsp;Usando essa ferramenta do Github, conseguimos gerenciar visualmente a produtividade do grupo através do controle em fluxos de desenvolvimento dos artefatos/ entregas.
+
+- Etapas do Zenhub:
+    - Nova issue;
+    - Em Andamento;
+    - Review;
+    - Finalizado.
+
+### Políticas
+
+#### Branch e Pull Request
+&emsp;&emsp;Cada artefato/ atividade deverá ser feita através de uma nova branch. Assim será possível elencar 1 ou 2 pessoas para a revisão daquela nova entrega através de um Pull Request, apontando pontos de melhorias e aprovando caso esteja bem desenvolvido.
+
+- Padrão de Branch: <i>xx-nome_da_issue</i> (xx = número da issue)
+
 
 ## Processo de Design
 
@@ -94,7 +139,7 @@
 ![Github](./assets/ferramentas/GithubLogo.png) | Github | Github é uma ferramenta utilizada no controle de versionamento e armazenamento dos arquivos de documentação.
 ![Teams](./assets/ferramentas/MicrosoftTeamsLogo.png) | Microsoft Teams | Plataforma para realização de reuniões em chamada de voz e vídeo.
 ![Telegram](./assets/ferramentas/TelegramLogo.png) | Telegram | Uma das maiores ferramentas de comunicação da atualidade, proporciona ao grupo uma forma de comunicação de forma ágil e facil durante todo o projeto.
-![VScode](./assets/ferramentas/VScodeLogo.png) | Visual Studio Code | Principal ferramenta de edição d textos no projto.
+![VScode](./assets/ferramentas/VScodeLogo.png) | Visual Studio Code | Principal ferramenta de edição de textos no projeto.
 ![mkdocs](./assets/ferramentas/MkdocsLogo.png) | MKdocs | Gerador de site estático minimalista, será usado para criar o site contendo a documentação do projeto.
 ![Planilhas Google](./assets/ferramentas/planilhasGoogleLogo.png) | Planilhas Google | Utilizado para criar planilhas e tabelas.
 
@@ -108,3 +153,4 @@
 | 1.1 | 14/08/2021 | Adicionando sites avaliados e site escolhido | Lucas Braun |
 | 1.2 | 14/08/2021 | Adicionando bibliografia e processo de design | Enzo Gabriel |
 | 1.3 | 15/08/2021 | Adicionando Cronograma de Atividades | Bruno Félix |
+| 1.4 | 15/08/2021 | Adicionando Quadro de Disponibilidade e Metodologia | Bruno Félix |
