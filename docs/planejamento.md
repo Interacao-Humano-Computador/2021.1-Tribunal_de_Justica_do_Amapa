@@ -23,7 +23,50 @@
 
 &emsp;&emsp;O site escolhido foi o [Mapa da Cultura](http://mapas.cultura.gov.br/), que é um espaço para dar visibilidade para projetos, artistas e eventos culturais. É a principal base de informações do Ministério da Cultura e agrega diversos programas culturais.
 
+
 ## Cronograma de Atividades
+
+### 1º Ponto de Controle - 16/08
+
+- Equipe;
+- Listas de sites avaliados;
+- Site selecionado para o projeto da disciplina;
+- Ferramentas do projeto;
+- Processo de Design;
+- Cronograma das atividades.
+
+### 2º Ponto de Controle - 28/08
+
+- Perfil do usuário;
+- Personas;
+- Análise de tarefas.
+
+### 3º Ponto de Controle - 04/09
+
+- Princípios Gerais de Projeto;
+- Metas de usabilidade;
+- Guia de Estilo.
+
+### 4º Ponto de Controle - 08/09
+
+- Planejamento da Avaliação e do relato dos resultados da avaliação do Storyboard;
+- Planejamento da Avaliação e do relato dos resultados da avaliação da Análise de tarefas.
+
+### 5º Ponto de Controle - 20/09
+
+- Relato dos resultados do Story Board;
+- Relato dos resultados da Análise de tarefas;
+- Planejamento da Avaliação e do relato dos resultados da avaliação do Protótipo de Papel.
+
+### 6º Ponto de Controle - 02/10
+
+- Relato dos resultados do Protótipo de Papel;
+- Planejamento da Avaliação e do relato dos resultados da avaliação do protótipo de alta fidelidade.
+
+### 6º Ponto de Controle - 04/10
+
+- Verificação dos artefatos.
+
 
 ## Quadro de Disponibilidade
 
@@ -64,3 +107,4 @@
 | 1.0 | 14/08/2021 | Criação do documento | Guilherme Vial |
 | 1.1 | 14/08/2021 | Adicionando sites avaliados e site escolhido | Lucas Braun |
 | 1.2 | 14/08/2021 | Adicionando bibliografia e processo de design | Enzo Gabriel |
+| 1.3 | 15/08/2021 | Adicionando Cronograma de Atividades | Bruno Félix |
