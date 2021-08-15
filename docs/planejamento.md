@@ -1,5 +1,3 @@
-## Introdução
-
 ## Sites Avaliados
 
 ### Portal de Dados Abertos do DF
