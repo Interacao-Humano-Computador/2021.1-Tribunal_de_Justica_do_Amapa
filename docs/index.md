@@ -1,7 +1,7 @@
 # Mapa da Cultura
 
 <div align="center">
-  <img width=15% align="center" src="../assets/logomapacultura.svg">
+  <img width=20% align="center" src="assets/logomapacultura.svg">
   <figcaption>Mapa da Cultura</figcaption>
 </div>
 
