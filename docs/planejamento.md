@@ -63,7 +63,7 @@
 - Relato dos resultados do Protótipo de Papel;
 - Planejamento da Avaliação e do relato dos resultados da avaliação do protótipo de alta fidelidade.
 
-### 6º Ponto de Controle - 04/10
+### 7º Ponto de Controle - 04/10
 
 - Verificação dos artefatos.
 
