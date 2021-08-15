@@ -3,25 +3,25 @@
 ## Sites Avaliados
 
 ### Portal de Dados Abertos do DF
-O Portal de Dados Abertos do DF é uma ferramenta disponibilizada pelo governo em que qualquer um pode acessar dados públicos sobre diversos temas no DF em formato bruto e aberto.
+&emsp;&emsp;O Portal de Dados Abertos do DF é uma ferramenta disponibilizada pelo governo em que qualquer um pode acessar dados públicos sobre diversos temas no DF em formato bruto e aberto.
 
 ### KaBum!
-O KaBum! é um site de comércio eletrônico focado em tecnologia e especializado em eletrônicos e hardware. É uma das plataformas de e-commerce mais utilizadas no país.
+&emsp;&emsp;O KaBum! é um site de comércio eletrônico focado em tecnologia e especializado em eletrônicos e hardware. É uma das plataformas de e-commerce mais utilizadas no país.
 
 ### gov.br
-O portal gov.br é um site que reúne em um só lugar diversas informações e serviços do Poder Executivo Federal.
+&emsp;&emsp;O portal gov.br é um site que reúne em um só lugar diversas informações e serviços do Poder Executivo Federal.
 
 ### SIGAA
-O SIGAA, ou Sistema Integrado de Gestão de Atividades Acadêmicas, é uma ferramenta de gerenciamento acadêmico onde discentes e docentes podem acessar diversas informações e serviços de gestão da vida acadêmica oferecidos pela UnB.
+&emsp;&emsp;O SIGAA, ou Sistema Integrado de Gestão de Atividades Acadêmicas, é uma ferramenta de gerenciamento acadêmico onde discentes e docentes podem acessar diversas informações e serviços de gestão da vida acadêmica oferecidos pela UnB.
 
 ## Site escolhido: Mapa da Cultura
 <figure>
 <img align=center width="300" src="../assets/logomapacultura.svg">
 <figcaption>Logo do site Mapa da Cultura</figcaption>
 </figure>
-Em reunião, o grupo decidiu que nenhum dos sites avaliados anteriormente seria boa escolha para o foco do projeto devido aos sites não terem problemas graves ou já terem sido foco de projetos da disciplina passados. Portanto, optaram por escolher juntos outro site para basear o projeto.
+&emsp;&emsp;Em reunião, o grupo decidiu que nenhum dos sites avaliados anteriormente seria boa escolha para o foco do projeto devido aos sites não terem problemas graves ou já terem sido foco de projetos da disciplina passados. Portanto, optaram por escolher juntos outro site para basear o projeto.
 
-O site escolhido foi o [Mapa da Cultura](http://mapas.cultura.gov.br/), que é um espaço para dar visibilidade para projetos, artistas e eventos culturais. É a principal base de informações do Ministério da Cultura e agrega diversos programas culturais.
+&emsp;&emsp;O site escolhido foi o [Mapa da Cultura](http://mapas.cultura.gov.br/), que é um espaço para dar visibilidade para projetos, artistas e eventos culturais. É a principal base de informações do Ministério da Cultura e agrega diversos programas culturais.
 
 ## Cronograma de Atividades
 
@@ -31,9 +31,9 @@ O site escolhido foi o [Mapa da Cultura](http://mapas.cultura.gov.br/), que é u
 
 ## Processo de Design
 
-O design é um processo que envolve as seguintes atividades básicas: a análise da situação atual, a síntese de uma intervenção e a avaliação dessa intervenção projetada ou já aplicada à situação atual. Cada processo de design detalha essas atividades básicas de uma forma particular, definindo: como executar cada atividade; a sequência em que elas devem ser executadas; quais atividades podem se repetir, e por quais motivos; e os artefatos consumidos e produzidos em cada uma delas. (Barbosa e Silva, 2010).
+&emsp;&emsp;O design é um processo que envolve as seguintes atividades básicas: a análise da situação atual, a síntese de uma intervenção e a avaliação dessa intervenção projetada ou já aplicada à situação atual. Cada processo de design detalha essas atividades básicas de uma forma particular, definindo: como executar cada atividade; a sequência em que elas devem ser executadas; quais atividades podem se repetir, e por quais motivos; e os artefatos consumidos e produzidos em cada uma delas. (Barbosa e Silva, 2010).
 
-A equipe optou por seguir o processo de design Engenharia de usabilidade de Mayhew.
+&emsp;&emsp;A equipe optou por seguir o processo de design Engenharia de usabilidade de Mayhew.
 ### Engenharia de Usabilidade de Mayhew
 
 ![Ciclo de Mayhew](./assets/ciclo_mayhew.png)
