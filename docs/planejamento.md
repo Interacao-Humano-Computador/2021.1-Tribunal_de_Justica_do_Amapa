@@ -142,6 +142,8 @@
 ![Planilhas Google](./assets/ferramentas/planilhasGoogleLogo.png) | Planilhas Google | Utilizado para criar planilhas e tabelas.
 ![Jitsi](./assets/ferramentas/jitsiLogo.png) | Jitsi | Ferramenta para comunicação por voz utilizada nas reuniões do grupo.
 
+<center>Figura 3: Ferramentas do projeto</center>
+
 ## Bibliografia
 > BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador"
 
