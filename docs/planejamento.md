@@ -74,7 +74,7 @@
 ### Engenharia de Usabilidade de Mayhew
 
 ![Ciclo de Mayhew](./assets/ciclo_mayhew.png)
-<center>Figura 2: Ciclo de vida de Mayhew. Retirado de: BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador". Capítulo 4, página 110.</center>
+<center>[Figura 1: Ciclo de vida de Mayhew. Retirado de: BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador". Capítulo 4, página 110.](https://user-images.githubusercontent.com/38890440/130664533-a28a915e-72e0-40dd-94f4-650f471a997c.png)</center>
 
 - **Análise de requisitos:** É onde são definidas as metas de usabilidade com base no perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma em que o sistema será executado e princípios gerais de design de IHC. As metas de usabilidades definidas são, geralmente, representadas em guias de estilo por facilitarem a sua verificação durante as fases seguintes.
 
@@ -86,7 +86,7 @@
 ## Quadro de Disponibilidade
 
 ![Ciclo de Mayhew](./assets/quadro_disponibilidade.png)
-<center>Figura 1: Quadro de Disponibilidade do Grupo</center>
+<center>[Figura 2: Quadro de Disponibilidade do Grupo](https://user-images.githubusercontent.com/38890440/130665103-cbfca64c-2df0-4336-ae3f-7c28b2f211f0.png)</center>
 
 
 ## Cronograma de Atividades
@@ -171,7 +171,6 @@
 ![Planilhas Google](./assets/ferramentas/planilhasGoogleLogo.png) | Planilhas Google | Utilizado para criar planilhas e tabelas.
 ![Jitsi](./assets/ferramentas/jitsiLogo.png) | Jitsi | Ferramenta para comunicação por voz utilizada nas reuniões do grupo.
 
-<center>Figura 3: Ferramentas do projeto</center>
 
 ## Bibliografia
 > BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador"
@@ -185,3 +184,4 @@
 | 1.3 | 15/08/2021 | Adicionando Cronograma de Atividades | Bruno Félix |
 | 1.4 | 15/08/2021 | Adicionando Quadro de Disponibilidade e Metodologia | Bruno Félix |
 | 1.5 | 24/08/2021 | Refatorando Cronograma de Atividades | Bruno Félix |
+| 1.6 | 24/08/2021 | Inserindo links para figura expandida | Bruno Félix |
