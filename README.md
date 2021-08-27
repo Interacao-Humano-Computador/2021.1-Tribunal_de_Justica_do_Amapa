@@ -1,10 +1,8 @@
-# Mapa da Cultura
+# Tribunal de Justiça do Estado do Amapá
 
 &emsp;&emsp;Documentação destinada ao desenvolvimento do projeto, de análise e design, da disciplina Interação Humano Computador, do curso de Engenharia de Software da Universidade de Brasília.
 
-&emsp;&emsp;O site avaliado no projeto será o [Mapa da Cultura](http://mapas.cultura.gov.br/), espaço para integrar e dar visibilidade para projetos, artistas, espaços, eventos culturais e seus produtores.
-
-&emsp;&emsp;É a principal base de informações do Ministério da Cultura, reunindo informações do antigo Registro Aberto da Cultura - RAC, da Rede Cultura Viva, do Sistema Nacional de Bibliotecas Públicas - SNBP e do Cadastro Nacional de Museus.
+&emsp;&emsp;O site avaliado no projeto será o [Tribunal de Justiça do Estado do Amapá](https://www.tjap.jus.br/portal/).
 
 
 ## Equipe
