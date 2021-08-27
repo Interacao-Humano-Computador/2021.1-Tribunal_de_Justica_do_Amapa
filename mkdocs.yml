@@ -11,7 +11,9 @@ theme:
 nav:
     - Home: index.md
     - Planejamento: planejamento.md
+    - Análise de Requisitos:
+          - Personas: analise-de-requisitos/personas.md
     - Atas:
           - 12/08/2021: atas/reuniao-12-08-2021.md
+          - 19/08/2021: atas/reuniao-19-08-2021.md
     - Apresentações: apresentacoes.md
-
