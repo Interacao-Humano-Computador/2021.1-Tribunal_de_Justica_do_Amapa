@@ -1,4 +1,4 @@
-site_name: Mapa da Cultura
+site_name: Tribunal de Justiça do Estado do Amapá
 
 extra_css:
     - assets/stylesheets/extra.css
@@ -6,6 +6,7 @@ extra_css:
 theme:
     name: material
     language: pt
+    logo: assets/logo.png
 
 nav:
     - Home: index.md
