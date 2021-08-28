@@ -8,18 +8,17 @@
 
 ## Diagramas HTA
 ### Legenda
-<figure>
-<img align=center width="600" src="/assets/analiseDeTarefas/legendaHTA.png">
+
+![legendaHTA](../assets/analiseDeTarefas/legendaHTA.png)
 <figcaption>Figura 01: Elementos do diagrama HTA</figcaption>
-</figure>
+
 
 ### Tarefa 1: Consultar processo
 
 #### Diagrama
-<figure>
-<img align=center width="600" src="/assets/analiseDeTarefas/tarefaProcesso.png">
+![tarefaProcesso](../assets/analiseDeTarefas/tarefaProcesso.png)
 <figcaption>Figura 02: Consultar processo</figcaption>
-</figure>  
+
 
 #### Tabela de Especificações
 | **Objetivos / Operações** | **Problemas e Recomendações** |
@@ -32,13 +31,12 @@
 | 1.4 Selecionar situação do processo | **Plano:** Selecionar qual a situação do processo.<br>**Input:** Clique em uma das opções de situação. |
 | 2. Clicar no botão Buscar/Consultar | **Feedback:** Redirecionamento para a página do processo. |
 
-### Tarefa 2: Buscar documento digital
+### Tarefa 2: Consultar documento digital
 
 #### Diagrama
-<figure>
-<img align=center width="600" src="/assets/analiseDeTarefas/tarefaDoc.png">
+![tarefaDoc](../assets/analiseDeTarefas/tarefaDoc.png)
 <figcaption>Figura 03: Buscar documento digital</figcaption>
-</figure> 
+
 
 #### Tabela de Especificações
 | **Objetivos / Operações** | **Problemas e Recomendações** |
@@ -50,10 +48,9 @@
 ### Tarefa 3: Contatar unidade judiciária
 
 #### Diagrama
-<figure>
-<img align=center width="600" src="/assets/analiseDeTarefas/tarefaAgend.png">
+![tarefaAgend](../assets/analiseDeTarefas/tarefaAgend.png)
 <figcaption>Figura 04: Contatar unidade judiciária</figcaption>
-</figure> 
+
 
 #### Tabela de Especificações
 | **Objetivos / Operações** | **Problemas e Recomendações** |
