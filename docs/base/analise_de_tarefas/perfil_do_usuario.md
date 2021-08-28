@@ -102,7 +102,7 @@ Entrevistador: Bruno Félix
 
 ## Conclusão 
 
-&emsp;&emsp;Com base nos dados coletados, pode-se definir o perfil de usuário que utiliza o siteTribunal de Justiça do Estado do Amapa como adultos de diferentes idades que buscam fazer ações para resolver suas questões pessoais:
+&emsp;&emsp;Com base nos dados coletados, pode-se definir o perfil de usuário que utiliza o siteTribunal de Justiça do Estado do Amapá como adultos de diferentes idades que buscam fazer ações para resolver suas questões pessoais:
 
 - Os usuário são, em sua maioria, do sexo **masculino**;
 - A faixa etária dos usuários é bem diversificada, em sua maioria, gira em torno dos **25 aos 35 anos**;
