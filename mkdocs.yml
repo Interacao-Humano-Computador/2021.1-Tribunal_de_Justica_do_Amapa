@@ -13,7 +13,7 @@ nav:
     - Planejamento: planejamento.md
     - Análise de Requisitos:
           - Personas: analise-de-requisitos/personas.md
-          - Análise de tarefas:
+          - Análise de tarefas: analise-de-requisitos/analise_de_tarefas.md
 
     - Atas:
           - 12/08/2021: atas/reuniao-12-08-2021.md

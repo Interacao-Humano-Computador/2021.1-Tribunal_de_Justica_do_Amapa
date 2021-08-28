@@ -9,7 +9,7 @@
 ## Diagramas HTA
 ### Legenda
 <figure>
-<img align=center width="600" src="../assets/analiseDeTarefas/legendaHTA.png">
+<img align=center width="600" src="/assets/analiseDeTarefas/legendaHTA.png">
 <figcaption>Figura 01: Elementos do diagrama HTA</figcaption>
 </figure>
 
@@ -17,7 +17,7 @@
 
 #### Diagrama
 <figure>
-<img align=center width="600" src="../assets/analiseDeTarefas/tarefaProcesso.png">
+<img align=center width="600" src="/assets/analiseDeTarefas/tarefaProcesso.png">
 <figcaption>Figura 02: Consultar processo</figcaption>
 </figure>  
 
@@ -36,7 +36,7 @@
 
 #### Diagrama
 <figure>
-<img align=center width="600" src="../assets/analiseDeTarefas/tarefaDoc.png">
+<img align=center width="600" src="/assets/analiseDeTarefas/tarefaDoc.png">
 <figcaption>Figura 03: Buscar documento digital</figcaption>
 </figure> 
 
@@ -51,7 +51,7 @@
 
 #### Diagrama
 <figure>
-<img align=center width="600" src="../assets/analiseDeTarefas/tarefaAgend.png">
+<img align=center width="600" src="/assets/analiseDeTarefas/tarefaAgend.png">
 <figcaption>Figura 04: Contatar unidade judiciária</figcaption>
 </figure> 
 
