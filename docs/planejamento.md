@@ -22,55 +22,6 @@
 &emsp;&emsp;O site escolhido foi o [Tribunal de Justiça do Estado do Amapá](https://www.tjap.jus.br/portal/).
 
 
-## Cronograma de Atividades
-
-### 1º Ponto de Controle - 16/08
-
-- Equipe;
-- Listas de sites avaliados;
-- Site selecionado para o projeto da disciplina;
-- Ferramentas do projeto;
-- Processo de Design;
-- Cronograma das atividades.
-
-### 2º Ponto de Controle - 28/08
-
-- Perfil do usuário;
-- Personas;
-- Análise de tarefas.
-
-### 3º Ponto de Controle - 04/09
-
-- Princípios Gerais de Projeto;
-- Metas de usabilidade;
-- Guia de Estilo.
-
-### 4º Ponto de Controle - 08/09
-
-- Planejamento da Avaliação e do relato dos resultados da avaliação do Storyboard;
-- Planejamento da Avaliação e do relato dos resultados da avaliação da Análise de tarefas.
-
-### 5º Ponto de Controle - 20/09
-
-- Relato dos resultados do StoryBoard;
-- Relato dos resultados da Análise de tarefas;
-- Planejamento da Avaliação e do relato dos resultados da avaliação do Protótipo de Papel.
-
-### 6º Ponto de Controle - 02/10
-
-- Relato dos resultados do Protótipo de Papel;
-- Planejamento da Avaliação e do relato dos resultados da avaliação do protótipo de alta fidelidade.
-
-### 7º Ponto de Controle - 04/10
-
-- Verificação dos artefatos.
-
-
-## Quadro de Disponibilidade
-
-![Ciclo de Mayhew](./assets/quadro_disponibilidade.png)
-<center>Figura 1: Quadro de Disponibilidade do Grupo</center>
-
 ## Metodologia
 
 ### eXtreme Programming (XP)
@@ -123,13 +74,91 @@
 ### Engenharia de Usabilidade de Mayhew
 
 ![Ciclo de Mayhew](./assets/ciclo_mayhew.png)
-<center>Figura 2: Ciclo de vida de Mayhew. Retirado de: BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador". Capítulo 4, página 110.</center>
+<center>[Figura 1: Ciclo de vida de Mayhew. Retirado de: BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador". Capítulo 4, página 110.](https://user-images.githubusercontent.com/38890440/130664533-a28a915e-72e0-40dd-94f4-650f471a997c.png)</center>
 
 - **Análise de requisitos:** É onde são definidas as metas de usabilidade com base no perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma em que o sistema será executado e princípios gerais de design de IHC. As metas de usabilidades definidas são, geralmente, representadas em guias de estilo por facilitarem a sua verificação durante as fases seguintes.
 
 - **Design, avaliação e desenvolvimento:** Essa fase propõe projetar a solução de IHC em três níveis de detalhes e tem por objetivo conceber uma solução de IHC que atenda às metas de usabilidade estabelecidas na fase anterior.
 
 - **Instalação:** Após algum tempo de uso, o designer coleta as opiniões dos usuários, utilizando essas opiniões para a melhoria do sistema futuramente ou para apontar a necessidade de novos sistemas.
+
+
+## Quadro de Disponibilidade
+
+![Ciclo de Mayhew](./assets/quadro_disponibilidade.png)
+<center>[Figura 2: Quadro de Disponibilidade do Grupo](https://user-images.githubusercontent.com/38890440/130665103-cbfca64c-2df0-4336-ae3f-7c28b2f211f0.png)</center>
+
+
+## Cronograma de Atividades
+
+### 1ª Entrega - Planejamento do Projeto
+
+| **Tarefas** | **Integrante(s)** | **Data Entrega** | **Revisor(es)** |
+| --- | --- | --- | --- |
+| Definir Equipe | Todos os integrantes | 16/08 | |
+| Listas de sites avaliados e site selecionado | Lucas Xavier | 16/08 | Bruno Félix|
+| Processo de Design | Enzo Gabriel | 16/08 | Guilherme Vial |
+| Cronograma das atividades | Bruno Felix | 16/08 | Lucas Xavier |
+| Quadro de Disponibilidade | Bruno Félix | 16/08 | Enzo Gabriel |
+| Ferramentas do projeto | Guilherme Vial | 16/08 | Enzo Gabriel |
+
+
+### 2ª Entrega -  Perfil do Usuário, Personas e Análise de tarefas
+
+| **Tarefas** | **Integrante(s)** | **Data Entrega** | **Revisor(es)** |
+| --- | --- | --- | --- |
+| Perfil do Usuário | Bruno Felix | 28/08 | Enzo Gabriel |
+| Personas | Enzo Gabriel | 28/08 | Bruno Felix |
+| Análise de Tarefas | Guilherme Vial e Lucas Xavier | 28/08 | Bruno Félix e Enzo Gabriel |
+| Revisão Entrega 1 | Bruno Félix e Enzo Gabriel | 28/08 | Guilherme Vial e Lucas Xavier |
+
+
+### 3ª Entrega - Análise de Requisitos
+
+| **Tarefas** | **Integrante(s)** | **Data Entrega** | **Revisor(es)** |
+| --- | --- | --- | --- |
+| Metas de usabilidade | | 04/09 | |
+| Princípios Gerais de Projeto | | 04/09 | |
+| Guia de Estilo | | 04/09 | |
+| Revisão Entrega 2 | | 04/09 | |
+
+
+### 4ª Entrega - Planejamento da Avaliação e do relato dos resultados: Storyboard e Análise de tarefas
+
+| **Tarefas** | **Integrante(s)** | **Data Entrega** | **Revisor(es)** |
+| --- | --- | --- | --- |
+| Planejamento da Avaliação e do relato dos resultados da avaliação da Análise de tarefas | | 08/09 | |
+| Planejamento da Avaliação e do relato dos resultados da avaliação do Storyboard | | 08/09 | |
+| Revisão Entrega 3 | | 04/09 | |
+
+
+### 5ª Entrega - Relato dos resultados | Planejamento da Avaliação e do relato dos resultados: Protótipo de Papel
+
+| **Tarefas** | **Integrante(s)** | **Data Entrega** | **Revisor(es)** |
+| --- | --- | --- | --- |
+| Relato dos resultados do StoryBoard | | 20/09 | |
+| Relato dos resultados da Análise de tarefas | | 20/09 | |
+| Planejamento da Avaliação e do relato dos resultados da avaliação do Protótipo de Papel | | 20/09 | |
+| Revisão Entrega 4 | | 20/09 | |
+
+
+### 6ª Entrega - Relato dos resultados Planejamento 
+
+| **Tarefas** | **Integrante(s)** | **Data Entrega** | **Revisor(es)** |
+| --- | --- | --- | --- |
+| Relato dos resultados do Protótipo de Papel | | 02/10 | |
+| Planejamento da Avaliação e do relato dos resultados da avaliação do protótipo de alta fidelidade | | 02/10 | |
+| Revisão Entrega 5 | | 02/10 | |
+
+
+### 7ª Entrega - Verificação
+
+| **Tarefas** | **Integrante(s)** | **Data Entrega** | **Revisor(es)** |
+| --- | --- | --- | --- |
+| Verificação dos Artefatos | | 04/10 | |
+| Revisão Entrega Final | | 04/10 | |
+
+
 ## Ferramentas
 
  **Ferramenta** | **Nome** | **Finalidade**
@@ -142,7 +171,6 @@
 ![Planilhas Google](./assets/ferramentas/planilhasGoogleLogo.png) | Planilhas Google | Utilizado para criar planilhas e tabelas.
 ![Jitsi](./assets/ferramentas/jitsiLogo.png) | Jitsi | Ferramenta para comunicação por voz utilizada nas reuniões do grupo.
 
-<center>Figura 3: Ferramentas do projeto</center>
 
 ## Bibliografia
 > BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador"
@@ -155,3 +183,5 @@
 | 1.2 | 14/08/2021 | Adicionando bibliografia e processo de design | Enzo Gabriel |
 | 1.3 | 15/08/2021 | Adicionando Cronograma de Atividades | Bruno Félix |
 | 1.4 | 15/08/2021 | Adicionando Quadro de Disponibilidade e Metodologia | Bruno Félix |
+| 1.5 | 24/08/2021 | Refatorando Cronograma de Atividades | Bruno Félix |
+| 1.6 | 24/08/2021 | Inserindo links para figura expandida | Bruno Félix |
