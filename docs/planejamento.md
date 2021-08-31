@@ -13,10 +13,12 @@
 &emsp;&emsp;O SIGAA, ou Sistema Integrado de Gestão de Atividades Acadêmicas, é uma ferramenta de gerenciamento acadêmico onde discentes e docentes podem acessar diversas informações e serviços de gestão da vida acadêmica oferecidos pela UnB.
 
 ## Site escolhido: Tribunal de Justiça do Estado do Amapá
-<figure>
-<img align=center width="300" src="../assets/logo.png">
-<figcaption>Logo do site Tribunal de Justiça do Estado do Amapá</figcaption>
-</figure>
+
+<div align="center">
+    <img width=30% align="center" src="../assets/logo.png">
+    <figcaption>Logo do site Tribunal de Justiça do Estado do Amapá</figcaption>
+</div>
+
 &emsp;&emsp;Em reunião, o grupo decidiu que nenhum dos sites avaliados anteriormente seria boa escolha para o foco do projeto devido aos sites não terem problemas graves ou já terem sido foco de projetos da disciplina passados. Portanto, optaram por escolher juntos outro site para basear o projeto.
 
 &emsp;&emsp;O site escolhido foi o [Tribunal de Justiça do Estado do Amapá](https://www.tjap.jus.br/portal/).
