@@ -117,9 +117,9 @@
 
 | **Tarefas** | **Integrante(s)** | **Data Entrega** | **Revisor(es)** |
 | --- | --- | --- | --- |
-| Metas de usabilidade | | 04/09 | |
-| Princípios Gerais de Projeto | | 04/09 | |
-| Guia de Estilo | | 04/09 | |
+| Metas de usabilidade | Lucas Xavier | 04/09 | Bruno Félix |
+| Princípios Gerais de Projeto | Guilherme Vial | 04/09 | Enzo Gabriel |
+| Guia de Estilo | Bruno Félix e Enzo Gabriel | 04/09 | Guilherme Vial e Lucas Xavier |
 | Revisão Entrega 2 | | 04/09 | |
 
 
