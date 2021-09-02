@@ -10,14 +10,14 @@
 ### Legenda
 
 ![legendaHTA](../assets/analiseDeTarefas/legendaHTA.png)
-<figcaption>Figura 01: Elementos do diagrama HTA</figcaption>
+<figcaption><center>Figura 01: Elementos do diagrama HTA</center></figcaption>
 
 
 ### Tarefa 1: Consultar processo
 
 #### Diagrama
 ![tarefaProcesso](../assets/analiseDeTarefas/tarefaProcesso.png)
-<figcaption>Figura 02: Consultar processo</figcaption>
+<figcaption><center>Figura 02: Consultar processo</center></figcaption>
 
 
 #### Tabela de Especificações
@@ -35,7 +35,7 @@
 
 #### Diagrama
 ![tarefaDoc](../assets/analiseDeTarefas/tarefaDoc.png)
-<figcaption>Figura 03: Buscar documento digital</figcaption>
+<figcaption><center>Figura 03: Buscar documento digital</center></figcaption>
 
 
 #### Tabela de Especificações
@@ -49,7 +49,7 @@
 
 #### Diagrama
 ![tarefaAgend](../assets/analiseDeTarefas/tarefaAgend.png)
-<figcaption>Figura 04: Contatar unidade judiciária</figcaption>
+<figcaption><center>Figura 04: Contatar unidade judiciária</center></figcaption>
 
 
 #### Tabela de Especificações

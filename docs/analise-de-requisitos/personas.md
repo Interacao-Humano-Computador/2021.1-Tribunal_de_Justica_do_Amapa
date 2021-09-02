@@ -24,6 +24,11 @@
 ![Fátima Soares](../assets/personas/fatima-soares.png)
 <center>Figura 2: Persona primária 2: Fátima Soares.<br>[Link para a imagem expandida](../assets/personas/fatima-soares.png)</center>
 
+### Wallace Santos
+
+![Wallace Santos](../assets/personas/wallace-santos.png)
+<center>Figura 2: Persona primária 3: Wallace Santos.<br>[Link para a imagem expandida](../assets/personas/wallace-santos.png)</center>
+
 ## Antipersona
 
 

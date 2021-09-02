@@ -13,10 +13,11 @@ nav:
     - Home: index.md
     - Planejamento: planejamento.md
     - Análise de Requisitos:
+          - Perfil do Usuário: base/analise_de_tarefas/perfil_do_usuario.md
           - Personas: analise-de-requisitos/personas.md
-          - Análise de tarefas: analise-de-requisitos/analise_de_tarefas.md
-
+          - Análise de Tarefas: analise-de-requisitos/analise_de_tarefas.md
     - Atas:
           - 12/08/2021: atas/reuniao-12-08-2021.md
           - 19/08/2021: atas/reuniao-19-08-2021.md
+          - 27/08/2021: atas/reuniao-27-08-2021.md
     - Apresentações: apresentacoes.md
