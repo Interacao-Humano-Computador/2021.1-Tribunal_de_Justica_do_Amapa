@@ -17,24 +17,24 @@
 &emsp;&emsp;**Avaliação:** O site não cumpre o quesito eficiência. Durante o uso do site, o  usuário se depara com uma imensidão de opções, dificultando a aprendizagem do mesmo e atrasando o alcance dos objetivos dos seus usuários.
 
 ### Segurança
-&emsp;&emsp;Se refere à como o sistema proteje o usuário de condições peprigosas e situações indesejáveis. Analisa como a aplicação irá prevenir erros do usuário e do próprio produto.  
+&emsp;&emsp;Se refere à como o sistema protege o usuário de condições perigosas e situações indesejáveis. Analisa como a aplicação irá prevenir erros do usuário e do próprio produto.  
 
-&emsp;&emsp;**Avaliação:** O site não cumpre o questio segurança, porém não possui problemas graves com respeito à isso. Por possuir um número muito grande de opções, se torna uma tarefa complicada não clicar na opção errada por engano.
+&emsp;&emsp;**Avaliação:** O site não cumpre o quesito segurança, porém não possui problemas graves com respeito a isso. Por possuir um número muito grande de opções, se torna uma tarefa complicada não clicar na opção errada por engano.
 
 ### Utilidade
 &emsp;&emsp;É a meta que analisa quão útil um produto consegue ser para o usuário. Se refere à medida em que o produto oferece o tipo certo de funcionalidade, de modo que os usuários possam realizar a atividade que precisam ou desejam.  
 
-&emsp;&emsp;**Avaliação:** O site cumpre com o esperado para a meta de utilidade, atendendo todas as atividades que o usuário precise realisar durante o período de uso do site.
+&emsp;&emsp;**Avaliação:** O site cumpre com o esperado para a meta de utilidade, atendendo todas as atividades que o usuário precisar realizar durante o período de uso do site.
 
 ### Capacidade de Aprendizagem
-&emsp;&emsp;Se refere à quão fácil de aprender a usar um sistema é. Analisa se o usuário, durante o tempo de uso, consegue compreender e se familiarizar com as tarefas e aos passos de cada nova tarefa.  
+&emsp;&emsp;Se refere à quão fácil de aprender a usar um sistema é. Analisa se o usuário, durante o tempo de uso, consegue compreender e se familiarizar com as tarefas e os passos de cada nova tarefa.  
 
-&emsp;&emsp;**Avaliação:** O site não cumpre a meta de aprendizagem, visto que é muito difícil de se aprender o que cada uma de suas funcionalidades fazem e como utilizar cada uma delas.
+&emsp;&emsp;**Avaliação:** O site não cumpre a meta de aprendizagem, visto que é muito difícil de se aprender o que cada uma de suas funcionalidades faz e como utilizar cada uma delas.
 
 ### Capacidade de Memorização
-&emsp;&emsp;É a capacidade de lembrar de como um sistema funciona após já ter aprendido a usá lo. É muito importante em sistemas interativos usados com pouca frequência.  
+&emsp;&emsp;É a capacidade de lembrar de como um sistema funciona após já ter aprendido a usá-lo. É muito importante em sistemas interativos usados com pouca frequência.  
 
-&emsp;&emsp;**Avaliação:** Osite não cumpre a meta de memorização. Por possuir muitas opções aglomeradas e pouco organizadas em um pequeno espaço na interface, o site gera uma dificuldade de aprendizado de uso em seus usuários, forçando os usuários a retornarem à fase de aprendizagem toda vez que o acessarem.
+&emsp;&emsp;**Avaliação:** O site não cumpre a meta de memorização. Por possuir muitas opções aglomeradas e pouco organizadas em um pequeno espaço na interface, o site gera uma dificuldade de aprendizado de uso em seus usuários, forçando os usuários a retornarem à fase de aprendizagem toda vez que o acessarem.
 
 
 ## Bibliografia
@@ -47,3 +47,5 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação.
 | Versão | Data | Modificação | Autor |
 | -------- |------|-------------|-------|
 | 0.1 | 01/09/2021 | Criação do documento | Guilherme Vial |
+| 0.2 | 02/09/2021 | Preenchimento do documento | Guilherme Vial |
+
