@@ -49,7 +49,14 @@ Paleta de cores predominantes no site:
 
 ### Animações
 
+Menu do usuário
 ![Animação 1](../assets/guia-de-estilos/menu.gif)
+
+Notícias
+![Animação 2](../assets/guia-de-estilos/menu2.gif)
+
+Páginas do portal
+![Animação 3](../assets/guia-de-estilos/menu3.gif)
 
 ## Elementos de Interação
 
