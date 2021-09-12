@@ -22,12 +22,8 @@ nav:
     - Design, avaliação e desenvolvimento:
           - Nível 1:
                 - Storyboards:
-                      - Planejamento da avaliação do storyboard: design-ava-des/nivel-1/storyboards/plan-ava-storyboard.md
                       - Storyboards: design-ava-des/nivel-1/storyboards/storyboards.md
-                      - Relato dos resultados da avaliação do storyboard: design-ava-des/nivel-1/storyboards/res-ava-storyboard.md
-          - Nível 2:
-          - Nível 3:
-
+                      - Planejamento da avaliação do storyboard: design-ava-des/nivel-1/storyboards/plan-ava-storyboard.md
     - Atas:
           - 12/08/2021: atas/reuniao-12-08-2021.md
           - 19/08/2021: atas/reuniao-19-08-2021.md
