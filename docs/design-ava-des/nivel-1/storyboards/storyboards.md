@@ -26,13 +26,13 @@
 Escritório de Advocacia que trabalha.
 
  - **Definição da tarefa a ser abordada:** <br>
-Consultar o andamento de um processo específico.
+Consulta do andamento de um processo específico.
 
 ### Sequência
  - **Definição de quais passos estão envolvidos para realização da tarefa:** <br>
     1. Seu chefe pede para Wallace Santos consultar andamento do processo;
     2. Procura o local onde se consulta o andamento do processo;
-    3. Consulta e encontra a situação do processo,
+    3. Consulta e encontra a situação do processo.
 
  - **Definição do que leva a pessoa a usar a aplicação:** <br>
 Solicitação da consulta do andamento do processo.
@@ -63,7 +63,7 @@ Consultar o andamento de um processo específico na página [TJAP](https://www.t
  Sua Residência.
 
  - **Definição da tarefa a ser abordada:** <br>
- Consultar unidade judiciária no qual será jurada.
+ Consulta de uma unidade judiciária no qual será jurada.
 
 ### Sequência
  - **Definição de quais passos estão envolvidos para realização da tarefa:** <br>
@@ -90,30 +90,40 @@ Consulta de informações de uma unidade jurídica.
 
 ## Storyboard 3: Consultar documento digital
 
-![Storyboard 3](../../../../../assets/storyboard/sb3.png)
-<center>Storyboard 3: Consultar documento digital<br>[Link para a imagem expandida](../../../../../assets/storyboard/sb3.png)</center>
+![Storyboard 3](../../../../../assets/storyboard/sb3.jpeg)
+<center>Storyboard 3: Consultar documento digital<br>[Link para a imagem expandida](../../../../../assets/storyboard/sb3.jpeg)</center>
 
 ### Preparo
  - **Definição das pessoas envolvidas:** <br>
  [Persona Marcelo Takashi](../../../../analise-de-requisitos/personas/#marcelo-takashi)
 
- - **Definição do ambiente da história:**
+ - **Definição do ambiente da história:** <br>
+Escritório de trabalho.
 
- - **Definição da tarefa a ser abordada:**
+ - **Definição da tarefa a ser abordada:** <br>
+Consulta de um documento digital específico.
 
 ### Sequência
- - **Definição de quais passos estão envolvidos para realização da tarefa:**
+ - **Definição de quais passos estão envolvidos para realização da tarefa:** <br>
+    1. Precisar consultar um documento virtual;
+    2. Procurar no site o local para tal ação;
+    3. Encontrar e consultar o documento digital.
 
- - **Definição do que leva a pessoa a usar a aplicação:**
+ - **Definição do que leva a pessoa a usar a aplicação:** <br>
+ Necessidade de consultar um documento digital.
 
- - **Definição da tarefa a será ilustrada:**
+ - **Definição da tarefa a será ilustrada:** <br>
+ Consultar um documento digital dentro da página [TJAP](https://www.tjap.jus.br/portal/).
 
 ### Satisfação
- - **Motivação principal da pessoa que usa a aplicação:**
+ - **Motivação principal da pessoa que usa a aplicação:** <br>
+ Consultar um documento digital desejado.
 
- - **Definição das realizações que a aplicação permite:**
+ - **Definição das realizações que a aplicação permite:** <br>
+ Consultar um documento digital.
 
- - **Definição das necessidades que a aplicação se propõe a sanar:**
+ - **Definição das necessidades que a aplicação se propõe a sanar:** <br>
+ Consulta de um documento digital.
 
 ## Referências
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.  
