@@ -130,6 +130,7 @@
 | --- | --- | --- | --- |
 | Planejamento da Avaliação e do relato dos resultados da avaliação da Análise de tarefas | Guilherme Vial e Lucas Xavier | 13/09 | Bruno Félix e Enzo Gabriel |
 | Planejamento da Avaliação e do relato dos resultados da avaliação do Storyboard | Bruno Félix e Enzo Gabriel | 13/09 | Guilherme Vial e Lucas Xavier |
+| Storyboard | Bruno Félix e Enzo Gabriel | 13/09 | Guilherme Vial e Lucas Xavier |
 
 
 ### 5ª Entrega - Relato dos resultados | Planejamento da Avaliação e do relato dos resultados: Protótipo de Papel
@@ -138,7 +139,8 @@
 | --- | --- | --- | --- |
 | Relato dos resultados do StoryBoard | Bruno Félix e Enzo Gabriel | 20/09 | Guilherme Vial e Lucas Xavier |
 | Relato dos resultados da Análise de tarefas | Guilherme Vial e Lucas Xavier | 20/09 | Bruno Félix e Enzo Gabriel |
-| Planejamento da Avaliação e do relato dos resultados da avaliação do Protótipo de Papel | Todos | 20/09 | - |
+| Planejamento da Avaliação e do relato dos resultados da avaliação do Protótipo de Papel | Guilherme Vial e Lucas Xavier | 20/09 | Bruno Félix e Enzo Gabriel |
+| Protótipo de Papel | Bruno Félix e Enzo Gabriel | 20/09 | Guilherme Vial e Lucas Xavier |
 
 
 ### 6ª Entrega - Relato dos resultados Planejamento 
