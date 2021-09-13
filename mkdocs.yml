@@ -17,13 +17,15 @@ nav:
           - Personas: analise-de-requisitos/personas.md
           - Análise de Tarefas: analise-de-requisitos/analise_de_tarefas.md
           - Guia de Estilo: analise-de-requisitos/guia-de-estilo.md
-          - Metas de usabilidade: analise-de-requisitos/metas-de-usabilidade.md
+          - Metas de Usabilidade: analise-de-requisitos/metas-de-usabilidade.md
           - Princípios Gerais de Projeto: analise-de-requisitos/principios_gerais.md
-    - Design, avaliação e desenvolvimento:
+    - Design, Avaliação e Desenvolvimento:
           - Nível 1:
                 - Storyboards:
                       - Storyboards: design-ava-des/nivel-1/storyboards/storyboards.md
-                      - Planejamento da avaliação do storyboard: design-ava-des/nivel-1/storyboards/plan-ava-storyboard.md
+                      - Planejamento da Avaliação do Storyboard: design-ava-des/nivel-1/storyboards/plan-ava-storyboard.md
+                - Análise de Tarefas:
+                      - Planejamento da Avaliação da Análise de Tarefas: planejamento_avaliacao.md
     - Atas:
           - 12/08/2021: atas/reuniao-12-08-2021.md
           - 19/08/2021: atas/reuniao-19-08-2021.md
