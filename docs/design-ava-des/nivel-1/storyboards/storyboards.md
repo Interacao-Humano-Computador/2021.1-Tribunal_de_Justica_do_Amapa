@@ -3,10 +3,10 @@
 &emsp;&emsp;Um storyboard é uma representação gráfica que é composta de uma série de quadrinhos com ilustrações ou fotos que representam cada história, com notas sobre o que está acontecendo na cena e o que está sendo dito no roteiro durante essa foto. Pense nisso como uma espécie de versão em quadrinhos do seu roteiro.
 
 ## Objetivo
-&emsp;&emsp;O Príncipal objetivo do desenvolvimento dos StoryBoards é auxliliar a "conceber uma solução de IHC que atenda
+&emsp;&emsp;O Principal objetivo do desenvolvimento dos StoryBoards é auxliliar a "conceber uma solução de IHC que atenda
 às metas de usabilidade estabelecidas na Análise de Requisitos"(Barbosa e Silva, 2019, p. 88).
 
-&emsp;&emsp;Sendo assim, validará o nível 1 da fase de Design, avaliação e desenvolvimento da Engenharia de usabilidade Mayhew, levantando uma visão e modelo conceitual do uso da aplicação.
+&emsp;&emsp;Sendo assim, os StoryBoards servirá para validar o nível 1 da fase de Design, avaliação e desenvolvimento da Engenharia de usabilidade Mayhew, levantando uma visão e modelo conceitual do uso da aplicação.
 
 ## Metodologia
 &emsp;&emsp;Para o desenvolvimento dos Storyboard foi consultado as [análises de tarefas](../../../../analise-de-requisitos/analise_de_tarefas/) levantadas na fase 1, Análise de Requisitos. Com o estudo das tarefas, pelo grupo, pode-se ter um prévio conhecimento das ações que o usuário faz na aplicação, com isso, foi natural aplicar os Storyboards justamente com base nas tarefas para, assim, afinar e aprimorar o entendimento da utilização da plataforma. Para o desenvolvimento dos Storyboards foi usado a plataforma [Storyboardthat](https://www.storyboardthat.com/pt).
@@ -30,8 +30,8 @@ Consultar o andamento de um processo específico.
 
 ### Sequência
  - **Definição de quais passos estão envolvidos para realização da tarefa:** <br>
-    1. Seu chefe pediu para Wallace Santos consultar andamento do processo;
-    2. Procura o local aonde se consulta o andamento do processo;
+    1. Seu chefe pede para Wallace Santos consultar andamento do processo;
+    2. Procura o local onde se consulta o andamento do processo;
     3. Consulta e encontra a situação do processo,
 
  - **Definição do que leva a pessoa a usar a aplicação:** <br>
@@ -63,19 +63,19 @@ Consultar o andamento de um processo específico na página [TJAP](https://www.t
  Sua Residência.
 
  - **Definição da tarefa a ser abordada:** <br>
- Consultar unidade judiciária no qua será jurada.
+ Consultar unidade judiciária no qual será jurada.
 
 ### Sequência
  - **Definição de quais passos estão envolvidos para realização da tarefa:** <br>
-    1. Precisar da consultar a unidade judiária no qual será jurada;
-    2. Procurar o local de consulta das unidades judiárias;
-    3. Consultar e encontrar a unidade judiária, filtrando por setores.
+    1. Precisar consultar as informações da unidade judiciária no qual será jurada;
+    2. Procurar o local de consulta das unidades judiciárias;
+    3. Consultar e encontrar a unidade judiciária, filtrando por setores.
 
  - **Definição do que leva a pessoa a usar a aplicação:** <br>
- Necessidade de saber sobre a unidade judiciaria aonde será jurada.
+ Necessidade de saber sobre a unidade judiciária onde será jurada.
 
  - **Definição da tarefa a será ilustrada:** <br>
- Consultar unidade judiciária no qua será jurada dentro da página [TJAP](https://www.tjap.jus.br/portal/).
+ Consultar unidade judiciária no qual será jurada dentro da página [TJAP](https://www.tjap.jus.br/portal/).
 
 
 ### Satisfação
