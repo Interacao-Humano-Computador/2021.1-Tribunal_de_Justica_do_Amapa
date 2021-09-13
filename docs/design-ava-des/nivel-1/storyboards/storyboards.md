@@ -14,8 +14,8 @@
 
 ## Storyboard 1: Consultar Processo
 
-![Storyboard 1](../../../../../assets/storyboard/sb1.png)
-<center>Figura 1: Consultar processo<br>[Link para a imagem expandida](../../../../../assets/storyboard/sb1.png)</center>
+![Storyboard 1](../../../../assets/storyboard/sb1.png)
+<center>Figura 1: Consultar processo<br>[Link para a imagem expandida](../../../../assets/storyboard/sb1.png)</center>
 
 
 ### Preparo
@@ -52,8 +52,8 @@ Consultar o andamento de um processo específico na página [TJAP](https://www.t
 
 ## Storyboard 2: Consultar Unidade Judiciária
 
-![Storyboard 2](../../../../../assets/storyboard/sb2.png)
-<center>Storyboard 2: Consultar Unidade Judiciária<br>[Link para a imagem expandida](../../../../../assets/storyboard/sb2.png)</center>
+![Storyboard 2](../../../../assets/storyboard/sb2.png)
+<center>Storyboard 2: Consultar Unidade Judiciária<br>[Link para a imagem expandida](../../../../assets/storyboard/sb2.png)</center>
 
 ### Preparo
  - **Definição das pessoas envolvidas:** <br>
@@ -90,8 +90,8 @@ Consulta de informações de uma unidade jurídica.
 
 ## Storyboard 3: Consultar documento digital
 
-![Storyboard 3](../../../../../assets/storyboard/sb3.jpeg)
-<center>Storyboard 3: Consultar documento digital<br>[Link para a imagem expandida](../../../../../assets/storyboard/sb3.jpeg)</center>
+![Storyboard 3](../../../../assets/storyboard/sb3.jpeg)
+<center>Storyboard 3: Consultar documento digital<br>[Link para a imagem expandida](../../../../assets/storyboard/sb3.jpeg)</center>
 
 ### Preparo
  - **Definição das pessoas envolvidas:** <br>
