@@ -122,26 +122,23 @@
 | Metas de usabilidade | Lucas Xavier | 04/09 | Bruno Félix |
 | Princípios Gerais de Projeto | Guilherme Vial | 04/09 | Enzo Gabriel |
 | Guia de Estilo | Bruno Félix e Enzo Gabriel | 04/09 | Guilherme Vial e Lucas Xavier |
-| Revisão Entrega 2 | | 04/09 | |
 
 
 ### 4ª Entrega - Planejamento da Avaliação e do relato dos resultados: Storyboard e Análise de tarefas
 
 | **Tarefas** | **Integrante(s)** | **Data Entrega** | **Revisor(es)** |
 | --- | --- | --- | --- |
-| Planejamento da Avaliação e do relato dos resultados da avaliação da Análise de tarefas | | 08/09 | |
-| Planejamento da Avaliação e do relato dos resultados da avaliação do Storyboard | | 08/09 | |
-| Revisão Entrega 3 | | 04/09 | |
+| Planejamento da Avaliação e do relato dos resultados da avaliação da Análise de tarefas | Guilherme Vial e Lucas Xavier | 13/09 | Bruno Félix e Enzo Gabriel |
+| Planejamento da Avaliação e do relato dos resultados da avaliação do Storyboard | Bruno Félix e Enzo Gabriel | 13/09 | Guilherme Vial e Lucas Xavier |
 
 
 ### 5ª Entrega - Relato dos resultados | Planejamento da Avaliação e do relato dos resultados: Protótipo de Papel
 
 | **Tarefas** | **Integrante(s)** | **Data Entrega** | **Revisor(es)** |
 | --- | --- | --- | --- |
-| Relato dos resultados do StoryBoard | | 20/09 | |
-| Relato dos resultados da Análise de tarefas | | 20/09 | |
-| Planejamento da Avaliação e do relato dos resultados da avaliação do Protótipo de Papel | | 20/09 | |
-| Revisão Entrega 4 | | 20/09 | |
+| Relato dos resultados do StoryBoard | Bruno Félix e Enzo Gabriel | 20/09 | Guilherme Vial e Lucas Xavier |
+| Relato dos resultados da Análise de tarefas | Guilherme Vial e Lucas Xavier | 20/09 | Bruno Félix e Enzo Gabriel |
+| Planejamento da Avaliação e do relato dos resultados da avaliação do Protótipo de Papel | Todos | 20/09 | - |
 
 
 ### 6ª Entrega - Relato dos resultados Planejamento 
