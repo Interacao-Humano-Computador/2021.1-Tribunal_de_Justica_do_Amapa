@@ -5,3 +5,8 @@
 
 # Apresentação Entrega 2 - 28/08
 <iframe width="900" height="400" src="https://www.youtube.com/embed/VDGAoyBFmrs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+# Apresentação Entrega 3 - 13/09
+<iframe width="900" height="400" src="https://www.youtube.com/embed/UpycGUsc9oc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
