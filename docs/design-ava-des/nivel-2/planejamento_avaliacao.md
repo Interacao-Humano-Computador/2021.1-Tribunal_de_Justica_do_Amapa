@@ -45,7 +45,7 @@ obtidos;
 - para cada um dos três tipos de signos inspecionados, fornecer:
     1. identificação de signos relevantes (listar e justificar a sua relevância);
     2. identificação das classes de signos utilizadas;
-    3. uma versão revisada da metamensagem do designer.288 Capítulo 12. Métodos de Avaliação de IHC
+    3. uma versão revisada da metamensagem do designer.
 - redigir a apresentação e explicação do julgamento do avaliador sobre os problemas de comunicabilidade encontrados, que possam dificultar ou impedir os usuários de entenderem a metamensagem ou interagirem com o sistema de forma produtiva.
 
 ## Bibliografia
