@@ -24,4 +24,4 @@
 
 |Versão|Data|Modificação|Autor|
 |--|--|--|--|
-| 1.0 | 23/04/2021 | Abertura do documento | Guilherme Vial |
+| 1.0 | 19/09/2021 | Criação do documento | Guilherme Vial |
