@@ -11,23 +11,23 @@
 5. Clicar em "Consultar"
 
 ## Coleta dos Dados
-1. Na página inicial, clicar no campo da "Consulta Rápida"
+1. **Na página inicial, clicar no campo da "Consulta Rápida"**
     - Essa ação está representada no diagrama HTA?<br>Não.
     - Os objetivos e operações estão descritos corretamente?<br>Não se aplica pois não está no diagrama.
     - As relações entre os objetivos estão corretas?<br>Não se aplica pois não está no diagrama.
-2. Inserir número do processo
+2. **Inserir número do processo**
     - Essa ação está representada no diagrama HTA?<br>Sim, na operação 1.1.
     - Os objetivos e operações estão descritos corretamente?<br>Sim.
     - As relações entre os objetivos estão corretas?<br>Sim.
-3. Clicar em "Buscar"
+3. **Clicar em "Buscar"**
     - Essa ação está representada no diagrama HTA?<br>Sim, na operação 2.
     - Os objetivos e operações estão descritos corretamente?<br>Sim.
     - As relações entre os objetivos estão corretas?<br>Sim.
-4. Na nova página, preencher os campos com os dados necessários
+4. **Na nova página, preencher os campos com os dados necessários**
     - Essa ação está representada no diagrama HTA?<br>Sim, nas operações 1.2, 1.3 e 1.4.
     - Os objetivos e operações estão descritos corretamente?<br>Sim.
     - As relações entre os objetivos estão corretas?<br>Sim.
-5. Clicar em "Consultar"
+5. **Clicar em "Consultar"**
     - Essa ação está representada no diagrama HTA?<br>Sim, na operação 2.
     - Os objetivos e operações estão descritos corretamente?<br>Parcialmente, pois utiliza a mesma operação para clicar em "Buscar" na página inicial.
     - As relações entre os objetivos estão corretas?<br>Sim.
