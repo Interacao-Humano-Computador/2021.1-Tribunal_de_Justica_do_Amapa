@@ -10,6 +10,8 @@
 
 &emsp;&emsp;Utilizando a plataforma MarvelApp foram feitos os links das imagens criadas nos botões que o usuário deve utilizar, buscando fazer com o que o usuário consiga utilizar o protótipo de papel seguindo os fluxos esperados.
 
+[Link do protótipo completo](https://marvelapp.com/prototype/h3da2jh/screen/82130899)
+
 ### Tela Inicial
 
 ![Tela Inicial](../../../assets/prototipo-de-papel/tjap1.jpg)
