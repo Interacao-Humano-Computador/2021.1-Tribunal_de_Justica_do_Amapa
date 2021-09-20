@@ -61,7 +61,7 @@ De posse dessas informações, gostaríamos que você se pronunciasse acerca da 
 ## Conclusão
 &emsp;&emsp;Com base no relato da avaliação e no teste piloto, ficou evidente que os storyboard foram bem desenvolvidos, mas que é necessário uma atenção em torno do [storyboard 1: Consultar Processo](../storyboards/#storyboard-1-consultar-processo).<br>
 &emsp;&emsp;Baseado no roteiro de perguntas e nas respostas obtidas, tivemos a constatação que os storyboards são fidedignos com a realidade de uso da aplicação, mostrando com exatidão as tarefas que se propõe a entregar. Entretanto, a avaliação com Erick Araújo mostrou que houve um leve deslize no storyboard 1, principalmente no que diz respeito a deixa que gera a ação de consultar o processo. Segundo o entrevistado, a premissa mostrada, que é a do chefe exigir o status do processo, nem sempre é o que acontece no dia a dia de um escritório de advocacia. <br>
-&emsp;&emsp;Por fim, a conclusão final é de <b>storyboards bem realistas</b> e da necessidade de <b>ajuste a alteração no primeiro quadro do storyboard 1</b>.
+&emsp;&emsp;Por fim, a conclusão final é de <b>storyboards bem realistas</b> e da necessidade de <b>ajuste no primeiro quadro do storyboard 1</b>.
 
 ## Referência
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.*
