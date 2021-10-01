@@ -12,39 +12,45 @@
 
 Cenários utilizados:  
 
-- Marcelo Takashi deseja passar em um concurso para se tornar juiz no Amapá. Marcelo gostaria de consultar um processo através do site.
+- Marcelo Takashi precisa visualizar os detalhes de um processo através do número do processo e número de distribuição do processo.
 - Fátima Soares foi sorteada para ser jurada em um processo no Tribunal de Justiça do Amapá, e gostaria de obter mais informações através do Balcão Virtual do site.
 
 ## Coleta de Dados
 
-&emsp;&emsp;A avaliação do protótipo de baixa fidelidade foi realizada por dois avaliadores, integrantes do grupo.
+### Cenário Marcelo Takashi:
+
+![Tela de consultas](../../../assets/prototipo-de-papel/tjap2.jpg)
+
+As possíveis reconstruções da metamensagem do designer são apresentadas a seguir (entre colchetes estão as evidências que apoiam a afirmação):
+
+&emsp;&emsp;Acredito que você possa precisar de mais informações além de número de processo, número de distribuição e nome da parte para consultar um processo [presença do botão "consulta avançada"]. Acredito também que você possua pelo menos as informações de número de processo, número de distribuição e nome da parte sobre o processo que deseja consultar [informações das 3 caixas de texto obrigatórias]. Você tem que consultar processos e documentos com a mesma frequência ou ao mesmo tempo [uma única página para consultas de processo e de documentos].
+
+
+### Cenário Fátima Soares:
 
 ![Tela de resultado de pesquisa no balcão virtual](../../../assets/prototipo-de-papel/tjap5.jpg)
 
 As possíveis reconstruções da metamensagem do designer são apresentadas a seguir (entre colchetes estão as evidências que apoiam a afirmação):
 
-&emsp;&emsp;**Metalinguístico:**
-Eu acredito que você possui pelo menos uma das três formas de contato disponibilizadas [presença de 3 opções de contato]. Para identificar a unidade desejada, você precisa saber apenas o nome e as formas de contato da unidade jurídica [cada setor apresenta apenas nome e métodos de contato].
-
-&emsp;&emsp;**Signos estáticos:**
-Eu acredito que você deseja especificar o município em que se encontra as unidades jurídicas [barra de pesquisa para cidade ou setor].
-
-&emsp;&emsp;**Signos dinâmicos:**
-<center>
-![Tela Inicial](../../../assets/prototipo-de-papel/tjap1.jpg)
-<figcaption>Figura 02: Tela inicial</figcaption>
-![Tela balcão virtual](../../../assets/prototipo-de-papel/tjap4.jpg)
-<figcaption>Figura 03: Tela do balcão virtual</figcaption>
-![Tela de resultado de pesquisa no balcão virtual](../../../assets/prototipo-de-papel/tjap5.jpg)
-<figcaption>Figura 04: Tela do resultado de pesquisa</figcaption>
-</center>
-&emsp;&emsp;Com base nessa sequência, é possível reconstruir um trecho da metamensagem do designer como a seguir:
-
-
-
+&emsp;&emsp;Eu acredito que você possui pelo menos uma das três formas de contato disponibilizadas [presença de 3 opções de contato]. Para identificar a unidade desejada, você precisa saber apenas o nome e as formas de contato da unidade jurídica [cada setor apresenta apenas nome e métodos de contato]. Acredito também que você precisa especificar o município em que se encontra as unidades jurídicas [barra de pesquisa para cidade ou setor].
 
 ## Interpretação e consolidação dos resultados
+
+&emsp;&emsp;A partir das análises feitas, é possível concluir que existem alguns problemas de comunicabilidade. No balcão virtual, as únicas informações exibidas sobre cada unidade são o nome e as formas de contato, mas talvez seja necessário mais detalhes sobre cada unidade jurídica.  
+
+&emsp;&emsp;Há uma única página para consultas de processo e de documento, que faz com que a página fique desorganizada, podendo causar mal entendimento das informações nela contidas por parte do usuário.
+
+
 ## Relato dos resultados
+
+&emsp;&emsp;Nessa avaliação foi usado o método da inspeção semiótica, onde o avaliador analisa a qualidade da emissão da metacomunicação do designer codificada na interface para reconstruir a metamensagem do designer.  
+
+&emsp;&emsp;Foram avaliadas as principais telas usadas em cada um dos cenários de interação, ou seja, a tela de consulta para o cenário do Marcelo Takashi, e as telas do Balcão Virtual para o cenário da Fátima Soares. Os resultados obtidos mostram que o usuário é capaz de interagir com o site com certa fluidez e após as primeiras interações, o usuário aprende as funcionalidades.
+
+**Os principais problemas encontrados foram:**
+
+- No balcão virtual, apenas o nome e formas de contato de uma unidade são exibidos, mas pode ser que mais informações sejam necessárias para o usuário.
+- Consultas de processo e documento na mesma página.
 
 ## Bibliografia
 > BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador"
@@ -54,3 +60,4 @@ Eu acredito que você deseja especificar o município em que se encontra as unid
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 30/09/2021 | Criação do documento | Guilherme e Lucas |
+| 1.1 | 01/10/2021 | Adição dos tópicos | Guilherme e Lucas |
