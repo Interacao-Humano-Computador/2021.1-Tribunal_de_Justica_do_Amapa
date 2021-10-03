@@ -36,7 +36,22 @@ nav:
                         - Planejamento da Avaliação do Protótipo de Baixa Fidelidade: design-ava-des/nivel-2/planejamento_avaliacao.md
                         - Resultados da Avaliação do Protótipo de Baixa Fidelidade: design-ava-des/nivel-2/resultado_avaliacao.md
       - Análise:
-            - Verificação: 
+            - Verificação:
+                  - Planejamento da Varificação: analise/verificacao/planejamento.md
+                  - Perfil do Usuário: analise/verificacao/perfil-do-usuario.md
+                  - Personas: analise/verificacao/personas.md
+                  - Análise de Tarefas: analise/verificacao/analise-de-tarefas.md
+                  - Metas de Usabilidade: analise/verificacao/metas-de-usabilidade.md
+                  - Princípios Gerais do Projeto: analise/verificacao/principio-gerais-do-projeto.md
+                  - Guia de Estilo: analise/verificacao/guia-de-estilo.md
+                  - Planejamento da Avaliação da Análise de Tarefas: analise/verificacao/plan-ava-analise-de-tarefas.md
+                  - Planejamento da Avaliação do Storyboard: analise/verificacao/plan-ava-storyboard.md                        
+                  - Storyboards: analise/verificacao/storyboards.md
+                  - Relato dos Resultados da Avaliação do Storyboard: analise/verificacao/resultado-ava-storyboard.md
+                  - Planejamento da Avaliação do Protótipo de Baixa Fidelidade: analise/verificacao/plan-prot-baixa.md
+                  - Relato dos Resultados da Avaliação do Protótipo de Baixa Fidelidade: analise/verificacao/resu-prot-baixa.md
+                  - Planejamento da Avaliação do Protótipo de Alta Fidelidade: analise/verificacao/plan-prot-alta.md
+                  - Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade: analise/verificacao/resu-prot-alta.md
                   - sample: analise/verificacao/sample.md
             - Validação: 
                   - Validação Informal: analise/validacao/validacao-informal.md                
