@@ -35,6 +35,7 @@ nav:
                         - Protótipo de Papel: design-ava-des/nivel-2/prototipo-de-papel.md
                         - Planejamento da Avaliação do Protótipo de Baixa Fidelidade: design-ava-des/nivel-2/planejamento_avaliacao.md
                         - Resultados da Avaliação do Protótipo de Baixa Fidelidade: design-ava-des/nivel-2/resultado_avaliacao.md
+<<<<<<< HEAD
             - Nível 3:
                         - Protótipo de Alta: design-ava-des/nivel-3/prototipo-de-alta.md
                         - Planejamento da Avaliação do Protótipo de Alta Fidelidade: design-ava-des/nivel-3/planejamento_avaliacao_prot_alta.md
@@ -58,6 +59,13 @@ nav:
                   - Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade: analise/verificacao/resu-prot-alta.md
             - Validação: 
                   - Validação Informal: analise/validacao/validacao-informal.md                
+=======
+
+      - Verificação:
+            - sample: ''
+            - Perfil do Usuário: analise/verificacao/ver-perfil-do-usuario.md
+                      
+>>>>>>> c75d6b9 (verificação de perfil de usuário)
       - Atas:
             - 12/08/2021: atas/reuniao-12-08-2021.md
             - 19/08/2021: atas/reuniao-19-08-2021.md
