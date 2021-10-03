@@ -64,6 +64,7 @@ nav:
       - Verificação:
             - sample: ''
             - Perfil do Usuário: analise/verificacao/ver-perfil-do-usuario.md
+            - Guia de Estilo: analise/verificacao/ver-guia-de-estilo.md
                       
 >>>>>>> c75d6b9 (verificação de perfil de usuário)
       - Atas:
