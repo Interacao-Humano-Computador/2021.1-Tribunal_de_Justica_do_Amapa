@@ -37,7 +37,9 @@ nav:
                         - Resultados da Avaliação do Protótipo de Baixa Fidelidade: design-ava-des/nivel-2/resultado_avaliacao.md
       - Análise:
             - Verificação: 
-            - Validação:                
+                  - sample: analise/verificacao/sample.md
+            - Validação: 
+                  - Validação Informal: analise/validacao/validacao-informal.md                
       - Atas:
             - 12/08/2021: atas/reuniao-12-08-2021.md
             - 19/08/2021: atas/reuniao-19-08-2021.md
