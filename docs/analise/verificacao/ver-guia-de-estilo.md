@@ -1,8 +1,8 @@
 ## Contexto	
  - Técnica: Inspeção por Checklist
- - Autores: Bruno Felix
+ - Autores: Enzo Gabriel e Bruno Felix
  - Inspetor: Lucas Braun
- - O documento verificado está disponível [aqui](../../base/analise_de_tarefas/perfil_do_usuario.md)
+ - O documento verificado está disponível [aqui](../../analise-de-requisitos/guia-de-estilo.md)
 
 ## Checklist
 
@@ -31,20 +31,20 @@
 ### Resultados Específicos
 |Número|Questão|Resposta|
 |:-|:-:|:-:|
-|1|As questões foram bem estabelecidas para se levantar o Perfil do Usuário?|✔|
-|2|A conclusão é coerente com os dados levantados?|✔|
+|1|Os Elementos de Interface foram bem levantados?|✔|
+|2|Os Elementos de Interação foram bem levantados?|✔|
+|3|Os Elementos de Ação foram bem levantados?|✔|
+|4|Os Vocabulário e Padrões foram bem levantados?|✔|
 ||**Porcentagem de sucesso**|**100%**|
 
 ## Conclusão
-
-&emsp;&emsp;Foram encontrados erros ortográficos.
+Foram encontrados erros de ortografia.
 
 ## Acompanhamento
-
-&emsp;&emsp;Correção de erros ortográficos.
+Correção de erros ortográficos.
 
 ## Bibliografia
-> [Página de verificação do Perfil de Usuário do grupo Ingresso EEAR](https://interacao-humano-computador.github.io/2020.2-Ingresso.eear/analise/verificacao/perfil-do-usuario/)
+> [Página de verificação do Guia de Estilo do grupo Ingresso EEAR](https://interacao-humano-computador.github.io/2020.2-Ingresso.eear/analise/verificacao/guia-de-estilo/)
 
 ## Versionamento
 
