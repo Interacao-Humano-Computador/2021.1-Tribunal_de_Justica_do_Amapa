@@ -35,10 +35,9 @@ nav:
                         - Protótipo de Papel: design-ava-des/nivel-2/prototipo-de-papel.md
                         - Planejamento da Avaliação do Protótipo de Baixa Fidelidade: design-ava-des/nivel-2/planejamento_avaliacao.md
                         - Resultados da Avaliação do Protótipo de Baixa Fidelidade: design-ava-des/nivel-2/resultado_avaliacao.md
-
-      - Verificação:
-            - sample: ''
-                      
+      - Análise:
+            - Verificação: 
+            - Validação:                
       - Atas:
             - 12/08/2021: atas/reuniao-12-08-2021.md
             - 19/08/2021: atas/reuniao-19-08-2021.md
