@@ -3,10 +3,10 @@
 &emsp;&emsp;Um storyboard é uma representação gráfica que é composta de uma série de quadrinhos com ilustrações ou fotos que representam cada história, com notas sobre o que está acontecendo na cena e o que está sendo dito no roteiro durante essa foto. Pense nisso como uma espécie de versão em quadrinhos do seu roteiro.
 
 ## Objetivo
-&emsp;&emsp;O Principal objetivo do desenvolvimento dos StoryBoards é auxliliar a "conceber uma solução de IHC que atenda
-às metas de usabilidade estabelecidas na Análise de Requisitos"(Barbosa e Silva, 2019, p. 88).
+&emsp;&emsp;O Principal objetivo do desenvolvimento dos StoryBoards é auxiliar a "conceber uma solução de IHC que atenda
+às metas de usabilidade estabelecidas na Análise de Requisitos" (Barbosa e Silva, 2019, p. 88).
 
-&emsp;&emsp;Sendo assim, os StoryBoards servirá para validar o nível 1 da fase de Design, avaliação e desenvolvimento da Engenharia de usabilidade Mayhew, levantando uma visão e modelo conceitual do uso da aplicação.
+&emsp;&emsp;Sendo assim, os StoryBoards servirão para validar o nível 1 da fase de Design, avaliação e desenvolvimento da Engenharia de usabilidade Mayhew, levantando uma visão e modelo conceitual do uso da aplicação.
 
 ## Metodologia
 &emsp;&emsp;Para o desenvolvimento dos Storyboard foi consultado as [análises de tarefas](../../../../analise-de-requisitos/analise_de_tarefas/) levantadas na fase 1, Análise de Requisitos. Com o estudo das tarefas, pelo grupo, pode-se ter um prévio conhecimento das ações que o usuário faz na aplicação, com isso, foi natural aplicar os Storyboards justamente com base nas tarefas para, assim, afinar e aprimorar o entendimento da utilização da plataforma. Para o desenvolvimento dos Storyboards foi usado a plataforma [Storyboardthat](https://www.storyboardthat.com/pt).
@@ -134,3 +134,4 @@ Consulta de um documento digital específico.
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 12/09/2021 | Criação e Desenvolvimento do documento | Bruno Félix e Enzo Gabriel |
+| 1.1 | 03/10/2021 | Revisão ortográfica | Lucas Braun |
