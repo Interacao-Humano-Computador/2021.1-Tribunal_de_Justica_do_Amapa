@@ -40,6 +40,7 @@ nav:
             - sample: ''
             - Perfil do Usuário: analise/verificacao/ver-perfil-do-usuario.md
             - Guia de Estilo: analise/verificacao/ver-guia-de-estilo.md
+            - Storyboards: analise/verificacao/ver-storyboards.md
                       
       - Atas:
             - 12/08/2021: atas/reuniao-12-08-2021.md
