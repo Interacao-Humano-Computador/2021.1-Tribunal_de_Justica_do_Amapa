@@ -21,3 +21,9 @@
 # Apresentação Entrega 5 - 20/09
 
 <iframe width="900" height="400" src="https://www.youtube.com/embed/Cnb_p5zUbH4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+# Apresentação Entrega 6 - 02/10
+
+<iframe width="900" height="400" src="https://www.youtube.com/embed/ZvsGeoISJPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
