@@ -18,35 +18,22 @@
 |:-:|--|:-:|
 |1|A introdução está bem definida?|✔|
 |2|Possui a tabela detalhando a metodologia utilizada?|✔|
-|3|Possui o termo de consentimento?|✔|
-|4|O termo de consentimento está condizente e completo|✔|
-|5|As atividades da tabela da metodologia estão explicadas?|✔|
-|6|As tarefas das atividades estão completamente explicadas?|✔|
-|7|O protótipo está acessível?|✔|
-|8|É possível interagir com o protótipo?|✔|
-|9|Os fluxos do protótipo estão corretos?|✔|
-|10|Todos os links estão corretos?|✔|
+|3|As atividades da tabela da metodologia estão explicadas?|✔|
+|4|As tarefas das atividades estão completamente explicadas?|✔|
 |11|A linguagem está simples e compreensível?|✔|
-|12|A ortografia está correta?|✖|
-||**Porcentagem de Sucesso**|**92%**|
-
-### Resultados Específicos
-|Número|Questão|Resposta|
-|:-|:-:|:-:|
-|1|||
-|2|||
-|3|||
-||**Porcentagem de sucesso**|**100%**|
+|12|A ortografia está correta?|✔|
+||**Porcentagem de Sucesso**|**100%**|
 
 ## Conclusão
 
-
+&emsp;&emsp;Com a verificação, notou-se que o documento está de acordo com o que era esperado dele.
 ## Acompanhamento
 
-
+&emsp;&emsp;De acordo com o a conclusão, não foi necessário nenhuma modificação no documento.
 ## Bibliografia
 
 > - REINEHR, Sheila. "Engenharia de Requisitos". sagah, Porto Alegre, 2020.
+> - [Página de verificação da Análise de Tarefas do grupo Ingresso EEAR](https://interacao-humano-computador.github.io/2020.2-Ingresso.eear/design-ava-dese/nivel-2/plan-prototipo-papel/)
 
 ## Versionamento
 |Versão|Data|Modificação|Autor|
