@@ -20,8 +20,8 @@
 |2|Possui a tabela detalhando a metodologia utilizada?|✔|
 |3|As atividades da tabela da metodologia estão explicadas?|✔|
 |4|As tarefas das atividades estão completamente explicadas?|✔|
-|11|A linguagem está simples e compreensível?|✔|
-|12|A ortografia está correta?|✔|
+|5|A linguagem está simples e compreensível?|✔|
+|6|A ortografia está correta?|✔|
 ||**Porcentagem de Sucesso**|**100%**|
 
 ## Conclusão
