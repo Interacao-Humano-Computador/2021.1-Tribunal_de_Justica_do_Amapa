@@ -45,6 +45,8 @@
 
 ## Bibliografia
 
+> [Página de verificação do Guia de Estilo do grupo Ingresso EEAR](https://interacao-humano-computador.github.io/2020.2-Ingresso.eear/analise/verificacao/guia-de-estilo/)
+
 
 ## Versionamento
 |Versão|Data|Modificação|Autor|

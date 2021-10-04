@@ -24,31 +24,32 @@
 |6|Os links redirecionam para o local correto?|✔|
 |7|A página possui referências do conteúdo?|✔|
 |8|As imagens possuem legendas?|✔|
-|9|O texto da página está justificado?|✖|
+|9|O texto da página está justificado?|✔|
 |10|O versionamento está correto?|✔|
 ||**Porcentagem de sucesso**|**80%**|
 
 ### Resultados Específicos
 | Número | Questão | Resposta |
 | :- | :-: | :-: |
-| 1 | O tópico x foi bem explicado |✔|
-| 2 | O tópico x foi bem explicado |✔|
-| 3 | O tópico x foi bem explicado |✔|
-| 4 | O tópico x foi bem explicado |✔|
-| 5 | O tópico x foi bem explicado |✔|
-| 6 | O tópico x foi bem explicado |✔|
-| 7 | O tópico x foi bem explicado |✔|
-| 8 | O tópico x foi bem explicado |✔|
-| 9 | O tópico x foi bem explicado |✔|
+| 1 | O teste piloto realizado está condizente com o esperado? |✔|
+| 2 | As perguntas do teste piloto foram estabelecidas corretamente? |✔|
+| 3 | As respostas do teste piloto são coerentes? |✔|
+| 4 | O tópico Avaliações foi bem explicado |✔|
+| 5 | O tópico Resultados Gerais foi bem explicado |✔|
 ||**Porcentagem de sucesso**|**100%**|
 
 ## Conclusão
 
+&emsp;&emsp;Feita a verificação do artefato, foram encontrados alguns erros de digitacão, porém nada de alta complexidade.
 
 ## Acompanhamento
 
+&emsp;&emsp;Os erros de digitação foram corrigidos.
+
 
 ## Bibliografia
+
+> [Página de verificação do Guia de Estilo do grupo Ingresso EEAR](https://interacao-humano-computador.github.io/2020.2-Ingresso.eear/analise/verificacao/guia-de-estilo/)
 
 
 ## Versionamento
