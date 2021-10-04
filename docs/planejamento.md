@@ -147,17 +147,17 @@
 
 | **Tarefas** | **Integrante(s)** | **Data Entrega** | **Revisor(es)** |
 | --- | --- | --- | --- |
-| Relato dos resultados do Protótipo de Papel | | 02/10 | |
-| Planejamento da Avaliação e do relato dos resultados da avaliação do protótipo de alta fidelidade | | 02/10 | |
-| Revisão Entrega 5 | | 02/10 | |
+| Relato dos resultados do Protótipo de Papel | Guilherme Vial e Lucas Xavier | 02/10 | Bruno Félix e Enzo Gabriel |
+| Planejamento da Avaliação e do relato dos resultados da avaliação do protótipo de alta fidelidade | Bruno Félix | 02/10 | |
+| Relato dos resultados da avaliação do protótipo de alta fidelidade | Enzo Gabriel | 02/10 | Lucas Xavier |
+| Protótipo de alta fidelidade | Bruno Félix | 02/10 | Guilherme Vial |
 
 
 ### 7ª Entrega - Verificação
 
 | **Tarefas** | **Integrante(s)** | **Data Entrega** | **Revisor(es)** |
 | --- | --- | --- | --- |
-| Verificação dos Artefatos | | 04/10 | |
-| Revisão Entrega Final | | 04/10 | |
+| Verificação dos Artefatos | Todos os integrantes | 04/10 | |
 
 
 ## Ferramentas
