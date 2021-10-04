@@ -2,7 +2,7 @@
  - Técnica: Inspeção por Checklist
  - Autores: Bruno Félix
  - Inspetor: Enzo Gabriel
- - O documento verificado está disponível [aqui](../../../design-ava-des/nivel-2/prototipo-de-papel)
+ - O documento verificado está disponível [aqui](../../../design-ava-des/nivel-2/prototipo-de-alta)
 
 
 ## Checklist
