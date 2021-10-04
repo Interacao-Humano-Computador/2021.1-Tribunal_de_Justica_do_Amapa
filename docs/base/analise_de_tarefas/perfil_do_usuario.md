@@ -50,7 +50,7 @@ Fizemos ao todo, 6 questões ao nosso usuário:
 <center>Figura 4: Gráfico por acesso ao site</center>
 
 ![Faixa etária](../../assets/perfil-do-usuario/Captura05.png)
-<center>Figura 5: Gráfico por frequencia de acesso</center>
+<center>Figura 5: Gráfico por frequência de acesso</center>
 
 ![Faixa etária](../../assets/perfil-do-usuario/Captura06.png)
 <center>Figura 6: Gráfico por dispositivo de acesso</center>
@@ -102,7 +102,7 @@ Entrevistador: Bruno Félix
 
 ## Conclusão 
 
-&emsp;&emsp;Com base nos dados coletados, pode-se definir o perfil de usuário que utiliza o siteTribunal de Justiça do Estado do Amapá como adultos de diferentes idades que buscam fazer ações para resolver suas questões pessoais:
+&emsp;&emsp;Com base nos dados coletados, pode-se definir o perfil de usuário que utiliza o site Tribunal de Justiça do Estado do Amapá como adultos de diferentes idades que buscam fazer ações para resolver suas questões pessoais:
 
 - Os usuário são, em sua maioria, do sexo **masculino**;
 - A faixa etária dos usuários é bem diversificada, em sua maioria, gira em torno dos **25 aos 35 anos**;
@@ -124,3 +124,4 @@ Todos os dados coletados pode ser encontrados [aqui](https://docs.google.com/spr
 | 0.1 | 25/08/2021 | Criação do documento | Bruno Felix |
 | 1.0 | 26/08/2021 | Desenvolvimento da metodologia | Bruno Felix |
 | 1.1 | 27/08/2021 | Desenvolvimento dos resultados | Bruno Felix |
+| 1.2 | 03/10/2021 | Revisão ortográfica | Lucas Braun |
