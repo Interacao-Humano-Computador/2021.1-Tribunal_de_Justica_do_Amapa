@@ -16,20 +16,20 @@
 &emsp;&emsp;Realizamos o teste piloto com dois integrantes da equipe, um no papel do entrevistador, aquele que conduzirá a entrevista e o outro no papel de entrevistado. O intuito deste teste piloto é encontrar possíveis erros antes das entrevistas e verificar se o roteiro está funcionando como deveria.
 
 
-<iframe width="800" height="450" src="https://youtu.be/fl8Kd8RpGho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/fl8Kd8RpGho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Avaliações
 
 &emsp;&emsp;Nas avaliações, nós tivemos a participação da universitária Tainá, e do funcionário público Alex. A seguir os vídeos das entrevistas:
 
 ### Avaliação 1: Tainá Victória, 21 anos, Universitária
-<iframe width="800" height="450" src="https://youtu.be/nv2AKynkXYI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/nv2AKynkXYI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Resultados da entrevista
 &emsp;&emsp;Na entrevista, podemos observar que a entrevistada não tem muita familiaridade com plataformas jurídicas, mas mesmo assim não nota dificuldades em realizar as tarefas propostas.
 
 ### Avaliação 2: Alex Sandro, 51 anos, Funcionário Público do Distrito Federal
-<iframe width="800" height="450" src="https://youtu.be/RJd4Oc56KPA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="450" src=https://www.youtube.com/embed/RJd4Oc56KPA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Resultados da entrevista
 &emsp;&emsp;Nessa entrevista, o entrevistado não passa por grandes dificuldades encontrar os caminhos solicitados, conseguindo realizar todas as tarefas com tranquilidade.
