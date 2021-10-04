@@ -148,7 +148,7 @@
 | **Tarefas** | **Integrante(s)** | **Data Entrega** | **Revisor(es)** |
 | --- | --- | --- | --- |
 | Relato dos resultados do Protótipo de Papel | Guilherme Vial e Lucas Xavier | 02/10 | Bruno Félix e Enzo Gabriel |
-| Planejamento da Avaliação e do relato dos resultados da avaliação do protótipo de alta fidelidade | Bruno Félix | 02/10 | |
+| Planejamento da Avaliação e do relato dos resultados da avaliação do protótipo de alta fidelidade | Bruno Félix | 02/10 | Enzo Gabriel |
 | Relato dos resultados da avaliação do protótipo de alta fidelidade | Enzo Gabriel | 02/10 | Lucas Xavier |
 | Protótipo de alta fidelidade | Bruno Félix | 02/10 | Guilherme Vial |
 
