@@ -43,12 +43,12 @@ De posse dessas informações, gostaríamos que você se pronunciasse acerca da 
 &emsp;&emsp;Levando em consideração as descobertas no levantamento do [Perfil do Usuário](../../../base/analise_de_tarefas/perfil_do_usuario) e no desenvolvimento das [Personas](../../../analise-de-requisitos/personas), serão convidadas pessoas que possuam um perfil semelhante ao do resultado desses artefatos.
 
 ### Protótipo de Alta Fidelidade
-&emsp;&emsp; O desenvolvimento do [Protótipo de Alta Fidelidade](../protótipo-de-alta) levou em consideração os aprendizados e  [resultados da avaliação da prototipação de baixa fidelidade](../../nivel-2/resultado_avaliacao/).
+&emsp;&emsp; O desenvolvimento do [Protótipo de Alta Fidelidade](../prototipo-de-alta) levou em consideração os aprendizados e  [resultados da avaliação da prototipação de baixa fidelidade](../../nivel-2/resultado_avaliacao/).
 
 &emsp;&emsp; Será utilizado, para as entrevistas, um modo interativo do prototipo de alta fidelidade, ferramenta do próprio Figma: [Interação](https://www.figma.com/proto/sea4Xmu2hL00NQa2PNuERO/TJAP-Pr%C3%B3t.-Alta-Fidelidade?node-id=0%3A1&scaling=min-zoom&starting-point-node-id=3%3A2&show-proto-sidebar=1).
 ## Coleta e Interpretação de Dados
 
-&emsp;&emsp;O modelo escolhido para a avaliação será a de entrevistas, que consiste em uma conversa guiada por um roteiro de perguntas preparas pelo entrevistador, onde ele busca obter informações de um entrevistado.
+&emsp;&emsp;O modelo escolhido para a avaliação será a de entrevistas, que consiste em uma conversa guiada por um roteiro de perguntas preparadas pelo entrevistador, onde ele busca obter informações de um entrevistado.
 
 &emsp;&emsp;A pergunta número 1 será feita na fase inicial da entrevista, os demais somente após a realização das entrevistas.
 
@@ -84,3 +84,4 @@ De posse dessas informações, gostaríamos que você se pronunciasse acerca da 
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 0.1 | 01/10/2021 | Criação do documento | Bruno Félix |
+| 1.0 | 04/10/2021 | Verificação do documento | Lucas Braun | 

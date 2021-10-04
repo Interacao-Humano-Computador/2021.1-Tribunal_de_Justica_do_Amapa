@@ -7,7 +7,7 @@
 
 ## Metodologia
 
-&emsp;&emsp;Uma completa e rica construção do guia de estilo do site proporcionará uma base sólida para, futuramente, se aplicar um processo redesign na plataforma. Entender os pensamentos e decisões da equipe de design e desenvolvimento é crucial para dar mais um passo rumo a elicitação da real experiência do usuário dentro da aplicação. 
+&emsp;&emsp;Uma completa e rica construção do guia de estilo do site proporcionará uma base sólida para, futuramente, se aplicar um processo redesign na plataforma. Entender os pensamentos e decisões da equipe de design e desenvolvimento é crucial para dar mais um passo rumo à elicitação da real experiência do usuário dentro da aplicação. 
 
 Esse guia de estilo irá seguir a seguinte estrutura (Marcus, 1991; Mayhew, 1999):
 
@@ -68,7 +68,7 @@ Esse guia de estilo irá seguir a seguinte estrutura (Marcus, 1991; Mayhew, 1999
 
 #### Noticias
 ![Tipografia](../assets/guia-de-estilos/Captura_noticias.png)
-<center>Figura 6: Noticias<br>[Link para a imagem expandida](../assets/guia-de-estilos/Captura_noticias.png)</center>
+<center>Figura 6: Notícias<br>[Link para a imagem expandida](../assets/guia-de-estilos/Captura_noticias.png)</center>
 
 #### Ouvidoria
 ![Tipografia](../assets/guia-de-estilos/Captura_ouvidoria.png)
@@ -138,7 +138,7 @@ Paleta de cores predominantes no site:
 
 ### Seleção
 
-&emsp;&emsp;Não foram encontrados opções de seleção no site.
+&emsp;&emsp;Não foram encontradas opções de seleção no site.
 
 ### Ativação
 
@@ -155,7 +155,7 @@ Paleta de cores predominantes no site:
 &emsp;&emsp;Observando a plataforma e todas as opções de uso do usuário, pudesse notar 3 importantes tipos de telas:
 
 - **Home**: Onde praticamente todas as ações cruciais estão apresentadas para o usuário;
-- **Páginas de Ação**: Páginas onde o usuário pode fazer ações relevantes dentro da aplicação, algumas são redirecionadas para plataformas terceiras para tais ações;
+- **Páginas de Ação**: Páginas onde o usuário pode fazer ações relevantes dentro da aplicação, algumas são redirecionadas para plataformas de terceiros para tais ações;
 - **Páginas Institucionais**: Páginas estáticas, onde a leitura e navegabilidade é a principal ação do usuário, muito caracterizada pela entrega de informações como notícias, galeria de fotos e outras mais.
 
 
@@ -172,3 +172,4 @@ Paleta de cores predominantes no site:
 | 1.2 | 02/09/2021 | Adição da Introdução, Elementos de Interação e Elementos de ação | Enzo Gabriel |
 | 1.3 | 03/09/2021 | Adição da Metodologia, Resultados de Análise e Vocabulário e Padrões | Bruno Félix |
 | 2.0 | 04/09/2021 | Ajustes gerais no documento | Bruno Félix |
+| 2.1 | 03/10/2021 | Correções ortográficas | Lucas Braun |
