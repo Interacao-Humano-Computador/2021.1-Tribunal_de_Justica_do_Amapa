@@ -8,17 +8,17 @@
 
 ## Metodologia
 
-&emsp;&emsp;A metologia escolhida para a avaliação será a de entrevistas, que consiste em uma conversa guiada por um roteiro de perguntas preparas pelo entrevistador, onde ele busca obter informações de um entrevistado.
+&emsp;&emsp;A metodologia escolhida para a avaliação será a de entrevistas, que consiste em uma conversa guiada por um roteiro de perguntas preparadas pelo entrevistador, onde ele busca obter informações de um entrevistado.
 
 ## Avaliação
 
 ### Definição das tarefas
 
-&emsp;&emsp;Para a validaão dos Storyboards, serão algumas perguntas, onde por meio dessas perguntas poderemos verificar se os Storyboards estão de acordo com a realidade dos usuários que serão entrevistados ou não, se há sugestões de melhorias, ou se existe algo para ser acrescentado nos storyboards.
+&emsp;&emsp;Para a validação dos Storyboards, feita atrevés de algumas perguntas, onde por meio dessas perguntas poderemos verificar se os Storyboards estão de acordo com a realidade dos usuários que serão entrevistados ou não, se há sugestões de melhorias, ou se existe algo para ser acrescentado nos storyboards.
 
 ### Roteiro de perguntas
 
-&emsp;&emsp;O tipo de entrevista feito será o semiestruturado, portanto, a entrevista deve possuir um roteiro orientado a tópicos ou perguntas que serão feitas durante a entrtevista, seguindo a ordem lógica proposta.
+&emsp;&emsp;O tipo de entrevista feito será o semiestruturado, portanto, a entrevista deve possuir um roteiro orientado a tópicos ou perguntas que serão feitas durante a entrevista, seguindo a ordem lógica proposta.
 
 | Número | Pergunta | Opções de resposta |
 |--|--|--|
@@ -45,3 +45,4 @@
 |--|--|--|--|
 | 0.1 | 12/09/2021 | Criação do documento | Enzo Gabriel |
 | 0.2 | 12/09/2021 | Finalização do documento | Enzo Gabriel |
+| 0.3 | 03/10/2021 | Correção ortográfica | Guilherme Vial |
