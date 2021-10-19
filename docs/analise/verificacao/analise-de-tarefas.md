@@ -53,5 +53,6 @@
 
 ## Versionamento
 |Versão|Data|Modificação|Autor|
+|--|--|--|--|
 |1.0|03/10/2021|Criação do documento|Enzo Gabriel|
 |1.1|03/10/2021|Adição dos tópicos do documento|Enzo Gabriel|
