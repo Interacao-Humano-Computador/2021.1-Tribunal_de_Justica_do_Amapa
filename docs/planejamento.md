@@ -23,6 +23,7 @@
 
 &emsp;&emsp;O site escolhido foi o [Tribunal de Justiça do Estado do Amapá](https://www.tjap.jus.br/portal/).
 
+&emsp;&emsp;**Motivo:** Ao navegar pelo site, percebemos que tinha muitas funcionalidades expostas ao usuário, em caráter excessivo. Outro ponto que chamou a atenção foi a navegabilidade confusa e a exigência de uma experiência prévia e/ou um tempo de aprendizagem significativo para realizar sua atividade.
 
 ## Metodologia
 
