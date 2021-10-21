@@ -13,6 +13,15 @@
 &emsp;&emsp;O site avaliado no projeto será o [Tribunal de Justiça do Estado do Amapá](https://www.tjap.jus.br/portal/).
 
 
+## TJAP
+
+&emsp;&emsp;A Justiça do Estado do Amapá foi instalada em 1991, com o advento da transformação do Território Federal do Amapá em Estado e a conseqüente constituição dos Poderes.
+
+&emsp;&emsp;A Justiça Estadual julga as matérias de natureza cível, de família, do consumidor, de sucessões, de falências e concordatas, da infância e juventude, criminais, dentre outras.
+
+&emsp;&emsp;O Tribunal busca o aperfeiçoamento do atendimento à população com implementações de ações efetivas, com constantes investimentos em tecnologia e com a participação em ações de responsabilidade social.
+
+
 ## Equipe
 
 | | **Bruno Felix** | **Enzo Gabriel** | **Guilherme Vial** | **Lucas Xavier**
