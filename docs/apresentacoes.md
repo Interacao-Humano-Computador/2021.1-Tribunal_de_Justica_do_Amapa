@@ -33,3 +33,9 @@
 # Apresentação Entrega 7 - 04/10
 
 <iframe width="900" height="400" src="https://www.youtube.com/embed/bHi_TfB-c6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+# Apresentação Entrega Final - 20/10
+
+<iframe width="900" height="400" src="https://www.youtube.com/embed/vp1zcFnGFSw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
